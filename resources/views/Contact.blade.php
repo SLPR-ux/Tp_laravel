@@ -6,6 +6,8 @@
     <title>contactez nous?</title>
 </head>
 <body>
+    <x-menu />
     <h1>appel moi bg</h1>
+    <x-footer />
 </body>
 </html>
